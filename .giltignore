@@ -1,0 +1,16 @@
+# Ignore executable files
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Build directories
+build/
+bin/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log

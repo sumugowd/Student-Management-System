@@ -8,13 +8,13 @@ This project demonstrates CRUD operations, modular design, and basic data struct
 
 ## 🚀 Features
 
-- ➕ Add Student
-- 📋 Display All Students
-- 🔍 Search Student by ID
-- ❌ Delete Student
-- ✏ Update Student
-- 🛡 Input Validation
-- 📂 Menu-driven Interface
+- ➕ Add Student  
+- 📋 Display All Students  
+- 🔍 Search Student by ID  
+- ❌ Delete Student  
+- ✏ Update Student  
+- 🛡 Input Validation  
+- 📂 Menu-driven Interface  
 
 ---
 
@@ -36,7 +36,6 @@ This project demonstrates CRUD operations, modular design, and basic data struct
 
 - C++
 - STL
-- File Structure Organization
 - Git & GitHub
 
 ---
@@ -52,28 +51,36 @@ This project demonstrates CRUD operations, modular design, and basic data struct
 ---
 
 ## 📁 Project Structure
+
+```
 Student-Management-System
 │── main.cpp
 │── README.md
 │── .gitignore
-
+```
 
 ---
 
 ## 🧪 How to Run
 
-1. Clone the repository:
+### 1️⃣ Clone the repository
+
+```
 git clone https://github.com/sumugowd/Student-Management-System.git
+```
 
+### 2️⃣ Compile using g++
 
-2. Compile using g++:
+```
 g++ main.cpp -o app
+```
 
+### 3️⃣ Run
 
-3. Run:
-./app (Linux/Mac)
-app.exe (Windows)
-
+```
+./app      (Linux/Mac)
+app.exe    (Windows)
+```
 
 ---
 

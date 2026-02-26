@@ -1,32 +1,86 @@
 # 🎓 Student Management System (C++)
 
-A beginner-friendly but professional console-based Student Management System built using OOP concepts in C++.
+A console-based Student Management System built using Object-Oriented Programming (OOP) concepts in C++.
+
+This project demonstrates CRUD operations, modular design, and basic data structure usage using STL.
+
+---
 
 ## 🚀 Features
-- Add Student
-- Display All Students
-- Input Validation
-- Menu-driven Interface
+
+- ➕ Add Student
+- 📋 Display All Students
+- 🔍 Search Student by ID
+- ❌ Delete Student
+- ✏ Update Student
+- 🛡 Input Validation
+- 📂 Menu-driven Interface
+
+---
 
 ## 🧠 Concepts Used
+
 - Object-Oriented Programming (OOP)
-- Classes and Objects
+- Classes & Objects
 - Encapsulation
-- STL (vector)
+- Constructors & Setters
+- STL (`vector`)
+- Linear Search
+- Dynamic Memory Handling via STL
 - Input Validation
-- Menu-driven Programming
+- Modular Programming
+
+---
 
 ## 🛠 Tech Stack
+
 - C++
 - STL
-- VS Code
+- File Structure Organization
+- Git & GitHub
 
-## 📈 Future Improvements
-- Search Student
-- Update Student
-- Delete Student
-- File Handling
-- Database Integration
+---
+
+## 📈 Future Enhancements
+
+- File Handling (Persistent Storage)
+- Sorting Students by Marks
+- Grade Calculation System
+- Database Integration (SQLite/MySQL)
+- GUI Version
+
+---
+
+## 📁 Project Structure
+Student-Management-System
+│── main.cpp
+│── README.md
+│── .gitignore
+
+
+---
+
+## 🧪 How to Run
+
+1. Clone the repository:
+git clone https://github.com/sumugowd/Student-Management-System.git
+
+
+2. Compile using g++:
+g++ main.cpp -o app
+
+
+3. Run:
+./app (Linux/Mac)
+app.exe (Windows)
+
+
+---
 
 ## 👨‍💻 Author
-Sumu Gowd
+
+**Sumanth G**  
+Final Year Computer Science Student  
+Placement Focused 🚀
+
+---
